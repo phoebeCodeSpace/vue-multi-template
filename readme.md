@@ -5,7 +5,6 @@
 ## features
 
 -   [x] 多页面配置
-
 -   [ ] 资源解析
     -   es6 ✅
     -   vue ✅
@@ -15,6 +14,10 @@
 -   [x] eslint
 -   [ ] 打包体积优化
 -   [ ] 构建速度优化
+    -   [x] 持久化缓存：html,css,js
 -   [ ] `project.config` 更多配置
+-   [x] UI 框架 [vant](https://youzan.github.io/vant/#/zh-CN/home)
+    -   [x] 按需引入
+    -   [x] 主题配置
 
 ## usage
